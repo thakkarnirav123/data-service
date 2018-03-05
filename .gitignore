@@ -7,6 +7,7 @@
 *.iml
 *.classpath
 .mvn
+.springBeans
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
